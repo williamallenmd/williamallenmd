@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @williamallenmd
 - 👀 I’m interested in teaching people about mental health.
-- 🌱 I’m currently learning Swift & iOS development.
-- 💞️ I’m looking to collaborate on my first iOS app, Depression School 2.
+- 🌱 I’m currently learning web and iOS development.
+- 💞️ I live in California. 
 - 📫 How to reach me WilliamAllenMD@gmail.com.
 
 <!---
